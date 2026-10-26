@@ -41,7 +41,7 @@ Output 3 = $(A + B) \times \overline C$
 1. $A \land B$=Table B
 2. $A \lor B$=Table C
 3. $\neg A$=Table D
-4. $A \oplus B$ (XOR)=Table E
+4. $A \oplus B$ (XOR)=Table A
 
 **Truth Tables:**
 
