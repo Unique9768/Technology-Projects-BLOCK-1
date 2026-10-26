@@ -1,27 +1,14 @@
 
-1. Binary Number: 101010
-
-Original number: 101010
-One's complement: 010101
-
-   010101
-+       1
-   010110
+1. Binary Number:101010
+   one complement=010101
+   two complement=010110
 
 2. Binary Number: 110011
+   one complement=001100
+   two complement=001101
 
-Original number: 110011
-One's complement: 001100
-
-   001100
-+       1
-   001101
 
 3. Binary Number: 1001
+   one complement=0110
+   two complement=0111
 
-Original number: 1001
-One's complement: 0110
-
-   0110
-+     1
-   0111
